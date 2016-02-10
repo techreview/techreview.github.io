@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://techreview.github.io
+name: Tech Review - Apps, SaaS, Smartphones, Wearables, IoT, Social Media and the Digital Society
+description: A Tech Primer for the Technologically-Averse and an Insider's Guide to New Developments in the Field<br /><br />For the purposes of clarity, this blog will have a specific focus on iOS 9.2.1+/Apple and Windows 10 Mobile/Microsoft.
+author: techreview
+avatar: http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=120&d=mm&r=g
+ga_domain: 
+ga_tracking_id: UA-73660208-1
