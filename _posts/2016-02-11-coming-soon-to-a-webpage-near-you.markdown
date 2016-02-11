@@ -1,6 +1,8 @@
 ---
 published: true
-title: Coming soon to a webpage near you...
+title: next up
 layout: post
 ---
-Your source for the latest news in computer technology, music, electronics, smartphones, apps, tablets, social media, online services and the digital domain.
+ Tech Review - A Layperson's Guide to Apps, SaaS💫, Smartphones, Wearables, IoT💫, Social Media and the Digital Society.
+
+[💫 Software as a Service and Internet of Things]
